@@ -1,0 +1,8 @@
+# brew install ffmpeg
+pyannote.audio
+opencv-python
+json
+numpy
+librosa
+tqdm
+matplotlib

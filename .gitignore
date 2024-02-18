@@ -1,0 +1,6 @@
+videos/
+audios/
+venv/
+old_work/
+__pycache__/
+*.json
